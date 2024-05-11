@@ -1,0 +1,33 @@
+﻿﻿
+@model List<CalculadorModel>
+@{
+    Layout = "_ServiciosLayout";
+    ViewData["Title"] = "Resultados";
+}
+
+<h3>Resultados</h3>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Horas Trabajadas</th>
+            <th>Valor hora</th>
+            <th>=</th>
+            <th>Resultado</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var resultado in Model)
+        {
+            <tr>
+                <td>@resultado.nombre</td>
+                <td>@resultado.horas</td>
+                <td>@resultado.valorHora</td>
+                <td>=</td>
+                <td>@resultado.montoTotal</td>
+            </tr>
+        }
+           
+    </tbody>
+</table>

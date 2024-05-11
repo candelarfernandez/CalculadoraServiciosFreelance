@@ -1,0 +1,30 @@
+﻿﻿
+@model CalculadorFreelance.Models.CalculadorModel
+@{
+    Layout = "_ServiciosLayout";
+    ViewData["Title"] = "Calcular";
+}
+<h3>Calcular</h3>
+
+<form action="/Calculador/Calcular" method="post">
+    @Html.AntiForgeryToken()
+    <div class="form-group">
+        @Html.LabelFor(model => model.nombre)
+        @Html.TextBoxFor(model => model.nombre, new { @class = "form-control", type = "text" })
+        @Html.ValidationMessageFor(model => model.nombre, "", new { @class = "text-danger" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.horas)
+        @Html.TextBoxFor(model => model.horas, new { @class = "form-control" , type = "number"})
+        @Html.ValidationMessageFor(model => model.horas, "", new { @class = "text-danger" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.valorHora)
+        @Html.TextBoxFor(model => model.valorHora, new { @class = "form-control", type = "number" })
+        @Html.ValidationMessageFor(model => model.valorHora, "", new { @class = "text-danger" })
+    </div>
+    <button type="submit" class="btn btn-primary">Calcular</button>
+</form>
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

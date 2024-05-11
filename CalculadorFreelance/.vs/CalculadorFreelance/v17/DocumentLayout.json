@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nitof\\source\\repos\\Repositorios de practica\\PracticaParcialIII\\CalculadorFreelance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69A80B57-5862-4DC2-A519-C5E1E217A306}|..\\CalculadorFreelance.Servicios\\CalculadorFreelance.Servicios.csproj|c:\\users\\nitof\\source\\repos\\repositorios de practica\\practicaparcialiii\\calculadorfreelance.servicios\\servicecalculador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B8DECF-59D6-4265-8223-DCD786629FD3}|CalculadorFreelance.csproj|c:\\users\\nitof\\source\\repos\\repositorios de practica\\practicaparcialiii\\calculadorfreelance\\views\\calculador\\resultados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7B8DECF-59D6-4265-8223-DCD786629FD3}|CalculadorFreelance.csproj|solutionrelative:views\\calculador\\resultados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B8DECF-59D6-4265-8223-DCD786629FD3}|CalculadorFreelance.csproj|c:\\users\\nitof\\source\\repos\\repositorios de practica\\practicaparcialiii\\calculadorfreelance\\views\\calculador\\calcular.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7B8DECF-59D6-4265-8223-DCD786629FD3}|CalculadorFreelance.csproj|solutionrelative:views\\calculador\\calcular.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B8DECF-59D6-4265-8223-DCD786629FD3}|CalculadorFreelance.csproj|c:\\users\\nitof\\source\\repos\\repositorios de practica\\practicaparcialiii\\calculadorfreelance\\views\\shared\\_servicioslayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7B8DECF-59D6-4265-8223-DCD786629FD3}|CalculadorFreelance.csproj|solutionrelative:views\\shared\\_servicioslayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B8DECF-59D6-4265-8223-DCD786629FD3}|CalculadorFreelance.csproj|c:\\users\\nitof\\source\\repos\\repositorios de practica\\practicaparcialiii\\calculadorfreelance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B8DECF-59D6-4265-8223-DCD786629FD3}|CalculadorFreelance.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceCalculador.cs",
+              "DocumentMoniker": "C:\\Users\\nitof\\source\\repos\\Repositorios de practica\\PracticaParcialIII\\CalculadorFreelance.Servicios\\ServiceCalculador.cs",
+              "RelativeDocumentMoniker": "..\\CalculadorFreelance.Servicios\\ServiceCalculador.cs",
+              "ToolTip": "C:\\Users\\nitof\\source\\repos\\Repositorios de practica\\PracticaParcialIII\\CalculadorFreelance.Servicios\\ServiceCalculador.cs",
+              "RelativeToolTip": "..\\CalculadorFreelance.Servicios\\ServiceCalculador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T11:10:25.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ServiciosLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\nitof\\source\\repos\\Repositorios de practica\\PracticaParcialIII\\CalculadorFreelance\\Views\\Shared\\_ServiciosLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ServiciosLayout.cshtml",
+              "ToolTip": "C:\\Users\\nitof\\source\\repos\\Repositorios de practica\\PracticaParcialIII\\CalculadorFreelance\\Views\\Shared\\_ServiciosLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ServiciosLayout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T23:35:08.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nitof\\source\\repos\\Repositorios de practica\\PracticaParcialIII\\CalculadorFreelance\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nitof\\source\\repos\\Repositorios de practica\\PracticaParcialIII\\CalculadorFreelance\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T23:33:52.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Resultados.cshtml",
+              "DocumentMoniker": "C:\\Users\\nitof\\source\\repos\\Repositorios de practica\\PracticaParcialIII\\CalculadorFreelance\\Views\\Calculador\\Resultados.cshtml",
+              "RelativeDocumentMoniker": "Views\\Calculador\\Resultados.cshtml",
+              "ToolTip": "C:\\Users\\nitof\\source\\repos\\Repositorios de practica\\PracticaParcialIII\\CalculadorFreelance\\Views\\Calculador\\Resultados.cshtml",
+              "RelativeToolTip": "Views\\Calculador\\Resultados.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T23:19:14.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calcular.cshtml",
+              "DocumentMoniker": "C:\\Users\\nitof\\source\\repos\\Repositorios de practica\\PracticaParcialIII\\CalculadorFreelance\\Views\\Calculador\\Calcular.cshtml",
+              "RelativeDocumentMoniker": "Views\\Calculador\\Calcular.cshtml",
+              "ToolTip": "C:\\Users\\nitof\\source\\repos\\Repositorios de practica\\PracticaParcialIII\\CalculadorFreelance\\Views\\Calculador\\Calcular.cshtml",
+              "RelativeToolTip": "Views\\Calculador\\Calcular.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-10T23:18:58.669Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
